@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/bdinh/Documents/EAGLE/projects/IcyHot.sch at 12/16/2020 7:15 PM
+
+Qty Value            Device                Package                  Parts          Description                                                                          
+2                    HEADER-1X570MIL       1X05_ROUND_70            JP1, JP3       PIN HEADER                                                                           
+1                    TPS92411              SOT23-5                  FLOATINGSWITCH TPS92411x Floating Switch for Offline AC Linear Direct Drive of LEDs with Low Ripple 
+1   2.8" CTP ILI9341 DISP_LCD_CTP28_SAMPLE TFT_2.83IN_240X320_50PIN U$10           2.83" 240x320 Pixel Capacitive Touch Display                                         
+2   NF-A4X20-5V-PWM  NF-A4X20-5V-PWM       NF-A4X20-5V-PWM          U$1, U$2       Noctua Fan (fan for system)                                                          
+1   POCKETBEAGLE     POCKETBEAGLE          POCKETBEAGLE             U1                                                                                                  
